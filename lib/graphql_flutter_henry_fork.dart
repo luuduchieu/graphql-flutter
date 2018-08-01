@@ -1,4 +1,4 @@
-library graphql_flutter;
+library graphql_flutter_henry_fork;
 
 export 'package:graphql_flutter_henry_fork/src/client.dart';
 export 'package:graphql_flutter_henry_fork/src/socket_client.dart';

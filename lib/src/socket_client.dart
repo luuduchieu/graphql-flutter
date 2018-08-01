@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:uuid/uuid.dart';
 
-import '../graphql_flutter.dart';
+import '../graphql_flutter_henry_fork.dart';
 
 SocketClient socketClient;
 
