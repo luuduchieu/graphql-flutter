@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
-import 'package:graphql_flutter/src/client.dart';
-import 'package:graphql_flutter/src/widgets/graphql_provider.dart';
+import 'package:graphql_flutter_henry_fork/src/client.dart';
+import 'package:graphql_flutter_henry_fork/src/widgets/graphql_provider.dart';
 
 typedef void RunMutation(Map<String, dynamic> variables);
 typedef void OnMutationCompleted(Map<String, dynamic> data);

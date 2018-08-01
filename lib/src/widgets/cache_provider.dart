@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:graphql_flutter/src/client.dart';
-import 'package:graphql_flutter/src/widgets/graphql_provider.dart';
+import 'package:graphql_flutter_henry_fork/src/client.dart';
+import 'package:graphql_flutter_henry_fork/src/widgets/graphql_provider.dart';
 
 class CacheProvider extends StatefulWidget {
   const CacheProvider({

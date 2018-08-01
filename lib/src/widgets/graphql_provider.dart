@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 
-import 'package:graphql_flutter/src/client.dart';
+import 'package:graphql_flutter_henry_fork/src/client.dart';
 
 class GraphqlProvider extends StatefulWidget {
   const GraphqlProvider({

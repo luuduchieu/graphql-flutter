@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:graphql_flutter/graphql_flutter.dart';
+import 'package:graphql_flutter_henry_fork/graphql_flutter.dart';
 
 import './mutations/addStar.dart' as mutations;
 import './queries/readRepositories.dart' as queries;

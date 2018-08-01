@@ -2,8 +2,8 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:graphql_flutter/src/cache/in_memory.dart';
-import 'package:graphql_flutter/src/exceptions.dart';
+import 'package:graphql_flutter_henry_fork/src/cache/in_memory.dart';
+import 'package:graphql_flutter_henry_fork/src/exceptions.dart';
 import 'package:http/http.dart' as http;
 
 class Client {

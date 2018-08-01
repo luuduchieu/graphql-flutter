@@ -45,7 +45,7 @@ dependencies:
 Now inside your Dart code you can import it.
 
 ```dart
-import 'package:graphql_flutter/graphql_flutter.dart';
+import 'package:graphql_flutter_henry_fork/graphql_flutter.dart';
 ```
 
 ## Usage
@@ -57,7 +57,7 @@ To use the client it first needs to be initialized with an endpoint and cache. I
 ```dart
 ...
 
-import 'package:graphql_flutter/graphql_flutter.dart';
+import 'package:graphql_flutter_henry_fork/graphql_flutter.dart';
 
 void main() {
   ValueNotifier<Client> client = ValueNotifier(
