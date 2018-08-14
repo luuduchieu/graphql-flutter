@@ -1,6 +1,6 @@
 name: graphql_flutter_henry_fork
 description: A GraphQL client for Flutter.
-version: 0.8.0
+version: 0.8.1
 authors:
   - Eus Dima <eus@zinoapp.com>
   - Zino Hofmann <zino@zinoapp.com>
