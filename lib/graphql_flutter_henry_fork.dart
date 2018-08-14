@@ -10,6 +10,7 @@ export 'package:graphql_flutter_henry_fork/src/websocket/socket.dart';
 
 export 'package:graphql_flutter_henry_fork/src/widgets/cache_provider.dart';
 export 'package:graphql_flutter_henry_fork/src/widgets/graphql_provider.dart';
+export 'package:graphql_flutter_henry_fork/src/widgets/graphql_consumer.dart';
 export 'package:graphql_flutter_henry_fork/src/widgets/query.dart';
 export 'package:graphql_flutter_henry_fork/src/widgets/mutation.dart';
 export 'package:graphql_flutter_henry_fork/src/widgets/subscription.dart';
